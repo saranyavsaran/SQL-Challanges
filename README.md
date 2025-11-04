@@ -6,12 +6,11 @@ This project contains a collection of **SQL challenging questions and their deta
 - Joins (INNER, LEFT, RIGHT, FULL)
 - Window Functions
 - Subqueries
-- CTEs (Common Table Expressions)
 - Aggregations and Grouping
 - Performance Optimization
 - Advanced Query Writing Techniques
 
+- **Operating System**: Windows 10 
+- **Database**: MySQL
 
-
-
-
+- git clone https://github.com/<your-username>/sql-challenging-questions.git
