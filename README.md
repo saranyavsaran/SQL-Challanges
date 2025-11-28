@@ -13,4 +13,4 @@ This project contains a collection of **SQL challenging questions and their deta
 - **Operating System**: Windows 10 
 - **Database**: MySQL
 
-- git clone https://github.com/<your-username>/sql-challenging-questions.git
+- git clone https://github.com/saranyavsaran/sql-challenging-questions.git
